@@ -7,8 +7,8 @@ This project analyzes how geopolitical conflicts affect global oil prices, count
 
 ## Problem Statement
 - **Core Problem:** How do geopolitical conflicts affecting oil supply impact fuel prices, economies, and vulnerable populations?
-- 
-- **Questions:**  
+ 
+  **Questions:**  
   - Which countries will suffer the most economically?  
   - Which populations face petrol affordability crises?  
   - Which countries are most resilient?
